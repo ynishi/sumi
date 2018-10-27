@@ -1,9 +1,9 @@
 # sumi
 sum of int list from stdin
 
-## build
+## install
 ```
-stack build
+stack install
 ```
 ## Usage
 ```
@@ -12,6 +12,6 @@ echo "
 a
 2
 3
-"| stack exec sumi-exe
+"| sumi
 # 6
 ```

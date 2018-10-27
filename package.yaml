@@ -27,7 +27,7 @@ library:
   source-dirs: src
 
 executables:
-  sumi-exe:
+  sumi:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
