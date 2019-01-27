@@ -15,3 +15,12 @@ a
 "| sumi
 # 6
 ```
+### Options
+* wip 
+```
+-f --func
+  func of fold
+example:
+  echo "1 2 3" |sumi -f '*'
+  # 6(1 * 2 * 3)
+```

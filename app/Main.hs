@@ -3,4 +3,4 @@ module Main where
 import Lib
 
 main :: IO ()
-main = sumFunc 0
+main = sumFunc "+" 0
